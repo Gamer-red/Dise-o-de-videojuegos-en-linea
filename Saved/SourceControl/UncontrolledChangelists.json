@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Dise-o-de-videojuegos-en-linea/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Dise-o-de-videojuegos-en-linea/Content/Maps/MEXICO.umap",
+				"D:/Dise-o-de-videojuegos-en-linea/Content/Blueprints/BP_CharcoLodo.uasset",
+				"D:/Dise-o-de-videojuegos-en-linea/Content/Characters/Characters_GM/Axolot/MM_Land.uasset",
+				"D:/Dise-o-de-videojuegos-en-linea/Content/Characters/Characters_GM/Axolot/MM_Land1.uasset",
 				"C:/Users/Melani/Documents/GitHub/Dise-o-de-videojuegos-en-linea/Content/Maps/MEXICO.umap",
 				"C:/Users/Melani/Documents/GitHub/Dise-o-de-videojuegos-en-linea/Content/Maps/MexicoMODELO.uasset",
 				"C:/Users/Melani/Documents/GitHub/Dise-o-de-videojuegos-en-linea/Content/Maps/Tikal.uasset",
